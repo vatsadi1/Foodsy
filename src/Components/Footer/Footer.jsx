@@ -6,8 +6,8 @@ function Footer() {
     <div className='footer'id='footer'>
 <div className='footer-content'>
     <div className="footer-content-left">
-        <img src= "src\assets\frontend_assets\logo5.png" alt=''/>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum earum harum quaerat. Cumque optio aperiam in odio magnam praesentium minima non libero eveniet ut consectetur commodi beatae, sit ab voluptatibus.</p>
+        <h1 className='span-1'>Foodsy</h1>
+        <p>✨ “Deliciousness delivered to your doorstep — fast, fresh, and full of flavor.”</p>
         <div className='footer-social-icons'>
             <img src={assets.facebook_icon} alt="" />
             <img src={assets.twitter_icon} alt="" />
@@ -27,7 +27,7 @@ function Footer() {
       <div className='footer-content-right'>
 <h2>GET IN TOUCH</h2>
 <ul>
-    <li>+91-8709-85-4462</li>
+    <li>+91-56-67-890-56</li>
     <li>Contact@foodsy.com</li>
 </ul>
       </div>

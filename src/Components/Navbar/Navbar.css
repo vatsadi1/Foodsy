@@ -17,6 +17,15 @@
     font-size: 18px;
 }
 
+.span-1{
+      background: linear-gradient(45deg, #00d4ff, #ff006e);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  font-size: xx-large;
+}
+
 .navbar-right{
     display: flex;
     gap: 40px;

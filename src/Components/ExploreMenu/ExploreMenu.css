@@ -10,7 +10,7 @@
 }
 
 .explore-menu-text{
-    color: #808080;
+    color: #0c0101;
     max-width: 20%;
 }
 
@@ -37,7 +37,7 @@
 
 .explore-menu-list-item p{
     margin-top: 10px;
-    color: #747474;
+    color: rgb(7, 17, 1);
     font-size:max(1.4vw,16p);
     cursor: pointer;
 }
@@ -45,7 +45,7 @@
 .explore-menu hr{
     margin: 10px 0px;
     height: 2px;
-    background-color: #e2e2e2;
+    background-color: #f9f7f9;
     border: none;
 }
 
